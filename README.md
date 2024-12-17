@@ -5,7 +5,7 @@
 pip install -r requirements.txt
 ```
 ## Model description
-<img src="https://github.com/user-attachments/files/18163864/ner_lstm_diagram.pdf" width="300">
+<img src="./ner_lstm_diagram.svg" width="300">
 
 
 ## LAUNCHING
