@@ -19,6 +19,7 @@ It includes a straightforward algorithm to reconstruct the original tokens by co
 
 ## NOTES
 `ray_gridsearch.py` was created for optimizing hyperparameters.
+
 Always run your projects in a virtual environment.
 
 ## AUTHOR
