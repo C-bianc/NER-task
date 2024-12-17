@@ -11,11 +11,12 @@ pip install -r requirements.txt
 
 
 ## LAUNCHING
-
-(optional) ```bash
+(optional)
+ ```bash
 jupyter notebook 01_train_models.ipynb
 ```
 
+Main program
 ```bash
 python infer_model.py
 ```
