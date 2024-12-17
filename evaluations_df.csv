@@ -1,0 +1,2 @@
+model_name,overall_f1,overall_recall,overall_precision,overall_accuracy
+RobertaLSTMForTokenClass,0.45914911193721597,0.4920325779036827,0.43038562800061947,0.8894707738346941
